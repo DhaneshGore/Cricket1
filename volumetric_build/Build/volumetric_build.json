@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "volumetric_build.data.unityweb",
+"asmCodeUrl": "volumetric_build.asm.code.unityweb",
+"asmMemoryUrl": "volumetric_build.asm.memory.unityweb",
+"asmFrameworkUrl": "volumetric_build.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

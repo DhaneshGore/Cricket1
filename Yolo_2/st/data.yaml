@@ -1,0 +1,8 @@
+names:
+- cover_drive
+- defencive
+- Aggresive
+- leave
+nc: 4
+train: /Users/vrajalpeshkumarmodi/Downloads/Cricket/Yolo_2/st/images/train
+val: /Users/vrajalpeshkumarmodi/Downloads/Cricket/Yolo_2/st/images/val

@@ -1,0 +1,13 @@
+path: /Users/vrajalpeshkumarmodi/Downloads/Cricket/YOLO_dataset
+train: images/train
+val: images/val
+
+names:
+  0: bat
+  1: ball
+  2: umpire
+  3: bowler
+  4: batsman
+  5: fielder
+  6: wicketkeeper
+  7: stumps

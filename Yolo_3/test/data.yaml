@@ -1,0 +1,5 @@
+train: /Users/vrajalpeshkumarmodi/Downloads/Cricket/Yolo_3/test/train
+val: /Users/vrajalpeshkumarmodi/Downloads/Cricket/Yolo_3/test/val
+
+nc: 2
+names: ['right_hand', 'left_hand']
