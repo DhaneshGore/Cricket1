@@ -22,7 +22,7 @@ bar_colors = {
 }
 
 # Load YOLO model
-model = YOLO("D:/Downloads/Cricket/YOLO_2/runs/detect/train/weights/best.pt")
+model = YOLO("Cricket1/YOLO_2/runs/detect/train/weights/best.pt")
 
 
 root = Tk()
