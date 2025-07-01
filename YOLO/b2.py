@@ -7,7 +7,7 @@ import sys
 from ultralytics import YOLO
 
 # Load YOLO model
-model_path = "D:/Downloads/Cricket/YOLO/yolov8n.pt"
+model_path = "Cricket1/YOLO/yolov8n.pt"
 model = YOLO(model_path)
 
 # Select video
