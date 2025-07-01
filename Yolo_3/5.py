@@ -17,8 +17,8 @@ actual_color = (0, 255, 0)
 hypo_color = (255, 0, 0)
 
 # === Load models ===
-shot_model = YOLO("D:/Downloads/Cricket/Yolo_2/runs/detect/train/weights/best.pt")
-batsman_model = YOLO("D:/Downloads/Cricket/YOLO/runs/detect/train/weights/best.pt")
+shot_model = YOLO("Cricket1/Yolo_2/runs/detect/train/weights/best.pt")
+batsman_model = YOLO("Cricket1/YOLO/runs/detect/train/weights/best.pt")
 
 # === Select video ===
 root = Tk()
