@@ -16,7 +16,7 @@ if not video_path:
     exit()
 
 # === Load YOLO model ===
-model = YOLO("D:/Downloads/Cricket/YOLO/runs/detect/train/weights/best.pt")  # Or yolov8n.pt
+model = YOLO("Cricket1/YOLO/runs/detect/train/weights/best.pt")  # Or yolov8n.pt
 
 # === Open selected video ===
 cap = cv2.VideoCapture(video_path)
