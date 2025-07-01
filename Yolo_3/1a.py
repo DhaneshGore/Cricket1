@@ -6,8 +6,8 @@ from ultralytics import YOLO
 import os
 
 # === Load Models ===
-model_ball = YOLO("D:/Downloads/Cricket/YOLO/runs/detect/train/weights/best.pt")   # ball model
-model_batsman = YOLO("D:/Downloads/Cricket/Yolo_3/runs/detect/train/weights/best.pt")  # hand/batsman model
+model_ball = YOLO("Cricket1/YOLO/runs/detect/train/weights/best.pt")   # ball model
+model_batsman = YOLO("Cricket1/Yolo_3/runs/detect/train/weights/best.pt")  # hand/batsman model
 
 def get_positions(model, frame):
     results = model(frame)
