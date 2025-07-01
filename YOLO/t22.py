@@ -13,7 +13,7 @@ BOWLER_CLASS_ID = 3
 CONFIDENCE_THRESHOLD = 0.5
 
 # === Load YOLO model ===
-model_path = 'D:/Downloads/Cricket/YOLO/runs/detect/train/weights/best.pt'
+model_path = 'Cricket1/YOLO/runs/detect/train/weights/best.pt'
 model = YOLO(model_path)
 
 # === Select video file ===
