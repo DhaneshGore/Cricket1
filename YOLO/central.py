@@ -6,11 +6,11 @@ import os
 SCRIPT_PATHS = [ 
     "Cricket1/YOLO/t1.py",         # 1. Object Detection
     "Cricket1/YOLO/t22.py",        # 2. Ball Tracking & Speed
-    "D:/Downloads/Cricket/YOLO/t3.py",         # 3. Counterfactual Ball Prediction
-    "D:/Downloads/Cricket/YOLO/b2.py",         # 4. Bat Swing and Angle
-    "D:/Downloads/Cricket/Yolo_2/b1.py",       # 5. Shot Execution Classification
-    "D:/Downloads/Cricket/Yolo_3/1a.py",       # 6. Player Positioning
-    "D:/Downloads/Cricket/Yolo_3/5.py",        # 7. Shot Style Vision
+    "Cricket1/YOLO/t3.py",         # 3. Counterfactual Ball Prediction
+    "Cricket1/YOLO/b2.py",         # 4. Bat Swing and Angle
+    "Cricket1/Yolo_2/b1.py",       # 5. Shot Execution Classification
+    "Cricket1/Yolo_3/1a.py",       # 6. Player Positioning
+    "Cricket1/Yolo_3/5.py",        # 7. Shot Style Vision
 ]
 
 # === Function to run selected script ===
