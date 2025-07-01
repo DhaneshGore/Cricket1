@@ -4,7 +4,7 @@ from tkinter import Tk, filedialog
 from ultralytics import YOLO
 
 # === Configuration ===
-model_path = 'D:/Downloads/Cricket/YOLO/runs/detect/train/weights/best.pt'
+model_path = 'Cricket1/YOLO/runs/detect/train/weights/best.pt'
 confidence_threshold = 0.5
 ball_class_id = 1
 bat_class_id = 0
