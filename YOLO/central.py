@@ -4,8 +4,8 @@ import os
 
 # === Define full paths to individual task scripts ===
 SCRIPT_PATHS = [ 
-    "D:/Downloads/Cricket/YOLO/t1.py",         # 1. Object Detection
-    "D:/Downloads/Cricket/YOLO/t22.py",        # 2. Ball Tracking & Speed
+    "Cricket1/YOLO/t1.py",         # 1. Object Detection
+    "Cricket1/YOLO/t22.py",        # 2. Ball Tracking & Speed
     "D:/Downloads/Cricket/YOLO/t3.py",         # 3. Counterfactual Ball Prediction
     "D:/Downloads/Cricket/YOLO/b2.py",         # 4. Bat Swing and Angle
     "D:/Downloads/Cricket/Yolo_2/b1.py",       # 5. Shot Execution Classification
