@@ -2,6 +2,12 @@
 
 This application provides a menu-driven interface to run various cricket analytics tasks using Python scripts. Each task corresponds to a different aspect of cricket video analysis, such as object detection, ball tracking, bat swing analysis, and more.
 
+
+![Cricket Video Thumbnail](path/to/thumbnail.png)
+
+[▶️ Watch the Full Video](https://github.com/DhaneshGore/Cricket1/raw/main/Cricket%20-%20Made%20with%20Clipchamp.mp4)
+
+
 ## Prerequisites
 
 - **Python 3.7+** must be installed on your system.
