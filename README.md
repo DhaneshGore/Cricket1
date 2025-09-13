@@ -5,7 +5,7 @@ This application provides a menu-driven interface to run various cricket analyti
 
 ![Cricket Demo](Cricket1/preview.gif)
 
-(https://github.com/DhaneshGore/Cricket1/raw/main/Cricket%20-%20Made%20with%20Clipchamp.mp4)
+https://github.com/DhaneshGore/Cricket1/raw/main/Cricket%20-%20Made%20with%20Clipchamp.mp4
 
 
 
